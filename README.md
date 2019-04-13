@@ -21,6 +21,9 @@ This Readme would be update with descriptions on each file
 2. josephus.py 
     My attempt at solving the josephus problem
     [Read More Here](http://mathworld.wolfram.com/JosephusProblem.html) Wolfram article
+3. dead_bot.py 
+    Find dead links on your website, all links stored in a json file for you. 
+    
 
 ## Built With
 
@@ -45,5 +48,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to Youtube Channels,ComputerPhile and NumberPhile from where i get some inspiration
+* Hat tip to Youtube Channels,ComputerPhile,NumberPhile and [Dev.to](https://dev.to) from where i get some inspiration
 
